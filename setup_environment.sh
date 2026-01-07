@@ -1,8 +1,6 @@
 #!/bin/bash
 
-# This script sets up the development environment for building an operating system.
 
-# Function to install a package if it is not already installed
 install_if_not_present() {
     if ! command -v $1 &> /dev/null
     then
