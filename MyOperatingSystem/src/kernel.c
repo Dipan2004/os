@@ -4,7 +4,7 @@
  * It serves as the core component that interacts with the bootloader and manages system resources.
  */
 
-#include <stdint.h>  // Standard integer types
+#include <stdint.h>  // Standard integer types 
 #include "memory_management.c"  // Include memory management header for memory functions
 
 // Function prototypes
