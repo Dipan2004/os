@@ -1,6 +1,6 @@
 /*
  * memory_management.c
- * This file contains functions for managing memory in the operating system.
+ * This file contains functions for managing memory in the operating system. 
  * It includes initialization of the memory management system, allocation, and deallocation of memory.
  */
 
