@@ -4,9 +4,9 @@
  * It serves as the core component that interacts with the bootloader and manages system resources.
  */
 
-#include <stdint.h>  // Standard integer types 
-#include "memory_management.c"  // Include memory management header for memory functions
-#include "io.h"  // Include I/O header for I/O functions
+#include <stdint.h>  
+#include "memory_management.c" 
+#include "io.h" 
 
 // Function prototypes
 void print(const char* str);
