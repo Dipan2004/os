@@ -79,4 +79,4 @@ clean:
 EOL
 
 # Notify that the setup is complete
-echo "Development environment setup complete!"
+echo "Development environment setup complete!" 
